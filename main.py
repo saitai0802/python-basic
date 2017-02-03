@@ -113,6 +113,8 @@ def f(x):
 
 
 
+
+#Looping
 for email in testLooping_Emails:
     if 'gmail' in email: # Just like using SQL like syntax here!
         print(email)
@@ -121,3 +123,20 @@ for email in testLooping_Emails:
 a = ["Trickier"]
 for i in a:
     print(i)
+
+# Merging the same column as a list with different List
+names = ['james', 'john', 'jack']
+email_domain = ['gmail', 'hotmail', 'yahoo']
+for i,j in zip(names, email_domain):
+    print(i, j)
+
+
+password = ''
+while password != 'python123':
+    password = input('Enter password: ')
+    if password == 'python123':
+        print("True")
+    else
+        print ("False")
+
+
