@@ -12,4 +12,4 @@ Step 7. Selected topics  <br/>
 
 <br/>
 There is a decision tree image to help you understand the differences between opening mode.<br/>
-<img src="https://github.com/saitai0802/python-basic/blob/master/images/openFileMode.png" width="100">
+<img src="https://github.com/saitai0802/python-basic/blob/master/images/openFileMode.png" width="800">
