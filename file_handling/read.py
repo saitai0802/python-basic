@@ -25,5 +25,6 @@ content = [i.rstrip("\n") for i in content]
 print(content)
 # ['Line 1', 'Line 2', 'Line 3', 'Line 4', 'Line 5', 'Line 6']
 
+input('Press ENTER to exit') # <== This code proof file if keep open in script level!
 file.close()
 # Opening a file in console need to use file.close()
