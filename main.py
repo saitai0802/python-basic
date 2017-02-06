@@ -1,3 +1,10 @@
+"""
+
+Copyright (C) 2017 Sai.
+All Rights Reserved.
+
+"""
+
 # Shell command in Shell
 # dir(int), dir(objectName)
 # help(functionName)
@@ -136,7 +143,7 @@ while password != 'python123':
     password = input('Enter password: ')
     if password == 'python123':
         print("True")
-    else
+    else:
         print ("False")
 
 
