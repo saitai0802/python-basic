@@ -19,7 +19,6 @@ test_list = ["Today", "DeleteME!", 3 , "Four"]
 test_tuple = ("Today", "DeleteME!", 3 , "Four")
 
 test_dictionary = {"Name":"Sai", "Profession":"Analyst"} # Using curly bracket
-testLooping_Emails = ["me@gmail.com", "you@yahoo.com", "we@gmail.com"]
 
 # Keep in mind everything we receive from input method is 'A STRING'!
 userinput = input("Try to input a random number on python console?")
@@ -89,6 +88,7 @@ print(try2AddFunctionToList)
 learnDictionary(test_dictionary)
 
 
+<<<<<<< HEAD:main.py
 
 
 
@@ -147,3 +147,5 @@ while password != 'python123':
         print ("False")
 
 
+=======
+>>>>>>> origin/master:dataType.py
