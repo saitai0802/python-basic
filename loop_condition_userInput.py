@@ -46,6 +46,9 @@ email_domain = ['gmail', 'hotmail', 'yahoo']
 for i,j in zip(names, email_domain):
     print(i, j)
 
+for i in range(10):
+    print(i)
+
 
 password = ''
 while password != 'python123':
