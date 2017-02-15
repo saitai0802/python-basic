@@ -25,7 +25,7 @@ userinput = input("Try to input a random number on python console?")
 print(int(userinput) * 100)
 
 # Python using indentation to define the block of function
-# And those code inside that block should remain the same indentation level.
+# And those python-syntax inside that block should remain the same indentation level.
 def c2fConverter(inputDegreeOfC):
     print('\n======Start of c2fConverter========')
     print(type(inputDegreeOfC))
